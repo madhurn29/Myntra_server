@@ -3462,10 +3462,132 @@
       "name": "madhur",
       "lastname": "nadamwar",
       "mobile": 1234567980,
-      "cart": [],
-      "wishlist": [],
+
       "address": "abc",
       "password": "123"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "quantity": 50,
+      "brand_name": "Tommy Hilfiger",
+
+      "name": "Men Burgundy Brand Logo Embossed Pure Cotton T-shirt",
+
+      "price": {
+        "mrp": 1999,
+
+        "discount": 50,
+
+        "sp": 1199
+      },
+
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+
+      "customer_rating": 4.6,
+
+      "product_details": [
+        "Burgundy Tshirt for men",
+
+        "Brand logo embossed",
+
+        "Regular length",
+
+        "Round neck",
+
+        "Short, regular sleeves",
+
+        "Knitted cotton fabric"
+      ],
+
+      "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15140410/2021/11/10/331c7234-a4e8-4122-85d8-a65cb6cc80241636548599253-Tommy-Hilfiger-Men-Tshirts-7341636548598554-1.jpg",
+
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15140410/2021/11/10/6fc599b6-c2ac-4d54-8e6b-38531a7153d71636548599245-Tommy-Hilfiger-Men-Tshirts-7341636548598554-2.jpg",
+
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15140410/2021/11/10/4e397da7-797e-45e3-bbd8-448911084bb01636548599236-Tommy-Hilfiger-Men-Tshirts-7341636548598554-3.jpg",
+
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15140410/2021/11/10/3324dd0c-596e-4f8e-a998-f238e5d2c3341636548599228-Tommy-Hilfiger-Men-Tshirts-7341636548598554-4.jpg",
+
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15140410/2021/11/10/8d665c7d-b5cb-49ae-9278-6bd4ee8b8cbf1636548599219-Tommy-Hilfiger-Men-Tshirts-7341636548598554-5.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "quantiy": 50,
+      "brand_name": "SASSAFRAS",
+      "name": "Black High Neck Cropped Top",
+      "price": {
+        "sp": 499,
+        "mrp": 999,
+        "discount": 50
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.5,
+      "product_details": [
+        "Black and white embroidered woven regular top",
+        "has a mandarin collar",
+        "long sleeves and concealed zip closure"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/d7ae3065-98d4-42d0-b244-d2b18802ff101601959656577-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/5779fc09-4088-48a9-9e0e-2d1d6a3572da1601959656523-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/7e3f0bf1-2517-4c35-b3e2-d806322972461601959656454-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/4e6fc0b7-c8c6-4ede-9fb2-c1120983a44b1601959656406-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/228e1a91-b15b-47d8-b96a-cf596ec4294c1601959656342-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-5.jpg"
+      ]
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 1,
+      "quantity": 50,
+      "brand_name": "Roadster",
+      "name": "Women White & Black Solid A-Line Pure Cotton Top",
+      "price": {
+        "sp": 269,
+        "mrp": 599,
+        "discount": 55
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.2,
+      "product_details": [
+        "White and black solid knitted A-line top with striped detail",
+        "round neck and sleeveless"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11373682/2020/6/9/93f3356b-6d47-4efe-8bee-568ec54c9b321591696221081-Roadster-Women-Tops-8421591696218528-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11373682/2020/6/9/0ffb8a18-5e5d-4b35-ba21-cd4de13d5ab21591696221016-Roadster-Women-Tops-8421591696218528-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11373682/2020/6/9/f65b14ba-2b54-45b5-b338-065679e02d801591696220958-Roadster-Women-Tops-8421591696218528-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11373682/2020/6/9/da78883c-e01d-4be4-870d-d73efacb81a81591696220903-Roadster-Women-Tops-8421591696218528-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11373682/2020/6/9/1280fa85-1391-4131-84bc-4ddc181843651591696220848-Roadster-Women-Tops-8421591696218528-5.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "quantity": 50,
+      "brand_name": "Roadster",
+      "name": "Women Maroon Solid Sustainable Top",
+      "price": {
+        "sp": 319,
+        "mrp": 799,
+        "discount": 60
+      },
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "customer_rating": 4.2,
+      "product_details": [
+        "Maroon solid woven regular top",
+        "V-neck",
+        "long sleeves"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10964434/2020/1/31/ad9d2c0c-2aa2-4d5a-9521-379ea9cf11891580454247445-Roadster-Women-Tops-4361580454246027-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10964434/2020/1/31/4abda9de-22b7-4987-9de2-76914443d0cb1580454247408-Roadster-Women-Tops-4361580454246027-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10964434/2020/1/31/b986a538-84ff-489b-adb9-90ea94b320881580454247374-Roadster-Women-Tops-4361580454246027-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10964434/2020/1/31/bd6a28f9-661d-4452-8ec5-e8eb9a0eb32e1580454247339-Roadster-Women-Tops-4361580454246027-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10964434/2020/1/31/c9ba1dbf-246c-402f-97b3-7f0d705e1cd01580454247296-Roadster-Women-Tops-4361580454246027-5.jpg"
+      ]
     }
   ]
 }
